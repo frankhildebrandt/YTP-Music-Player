@@ -1,6 +1,6 @@
 [package]
 name = "ytp_music_player"
-version = "0.1.1"
+version = "0.1.2"
 description = "YouTube Music title catcher with OBS overlays and session credits"
 authors = ["Frank"]
 edition = "2021"
